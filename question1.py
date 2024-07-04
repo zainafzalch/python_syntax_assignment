@@ -22,7 +22,7 @@ mood = input("How do you feel today? ")
 
 if mood == "happy" or "Happy":
     print("Thats great to hear")
-elif mood == "ok":
+elif mood == "ok" or "Ok":
     print("is everything ok?")
 else:
     print("I hope your day gets better!")
